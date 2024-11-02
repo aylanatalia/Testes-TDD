@@ -1,0 +1,14 @@
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\NW\NewTalents\bin\Debug\net9.0\NewTalents.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\NW\NewTalents\bin\Debug\net9.0\NewTalents.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\NW\NewTalents\bin\Debug\net9.0\NewTalents.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\NW\NewTalents\bin\Debug\net9.0\NewTalents.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\NW\NewTalents\bin\Debug\net9.0\NewTalents.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\NW\NewTalents\obj\Debug\net9.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\NW\NewTalents\obj\Debug\net9.0\NewTalents.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\NW\NewTalents\obj\Debug\net9.0\NewTalents.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\NW\NewTalents\obj\Debug\net9.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\NW\NewTalents\obj\Debug\net9.0\NewTalents.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\NW\NewTalents\obj\Debug\net9.0\refint\NewTalents.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\NW\NewTalents\obj\Debug\net9.0\NewTalents.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\NW\NewTalents\obj\Debug\net9.0\NewTalents.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Ayla\Programação\NW\NewTalents\obj\Debug\net9.0\ref\NewTalents.dll
